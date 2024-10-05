@@ -36,3 +36,9 @@ Database: PostgreSQL for scalable data management
 Geolocation: Geopy and OpenStreetMap for accurate geocoding
 
 Notifications: Firebase Cloud Messaging (FCM) for real-time notifications
+
+
+Screenshots of the application:
+
+![WhatsApp Image 2024-10-05 at 08 49 57_99d750c9](https://github.com/user-attachments/assets/b61695a3-f800-4c7b-b8b0-b76d996fcbe2)
+
